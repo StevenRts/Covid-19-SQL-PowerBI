@@ -12,4 +12,3 @@ Using the World Health Organization Data set that I downloaded into Excel.
    See POWER BI COVID DASH.pdf or download POWER BI COVID DASH.pbix to open it in PowerBI on your desktop.
    
   
-[POWER BI COVID DASH.pdf](https://github.com/StevenRts/Covid-19-SQL-PowerBI/files/7874146/POWER.BI.COVID.DASH.pdf)
