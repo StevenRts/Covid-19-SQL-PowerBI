@@ -6,5 +6,5 @@ Using the World Health Organization Data set that I downloaded into Excel.
     
 2. The visualizations were created and sometimes played with before being imported into PowerBI
     
-3. After importing the data sets into PowerBi the data was used to create PowerBI Dashboards
-    See 
+3. After importing the data sets into PowerBi the data was used to create PowerBI Dashboards.
+    See POWER BI COVID DASH.pdf or download POWER BI COVID DASH.pbix to open it in PowerBI on your desktop.
